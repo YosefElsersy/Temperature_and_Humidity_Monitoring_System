@@ -4,7 +4,7 @@
 
 This repository contains the code for a temperature and humidity monitoring system using an Arduino, DHT sensor, and an LCD screen. The data is sent via Bluetooth to a mobile app created with MIT App Inventor for remote monitoring.
 
-![Uploading Temperature and Humidity Monitoring System using Arduino, dht11 and hc-05 bluetooth module.jpg…]()
+![Temperature and Humidity Monitoring System using Arduino, dht11 and hc-05 bluetooth module](https://github.com/user-attachments/assets/66d413e8-3089-475f-a8c8-0e2a310f56a8)
 
 
 
